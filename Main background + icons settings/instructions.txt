@@ -1,0 +1,2 @@
+put tga files in textures folder 
+put the dat file in db folder
